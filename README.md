@@ -1,14 +1,5 @@
 <a name="readme-top"></a>
 
-
-<div align="center">
-
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-  <h3>Space Travel Hub</h3>
-
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -38,7 +29,7 @@
 # 📖 Space Travel Hub <a name="about-project"></a>
 
 
-**SpaceTravelHub** is a live data from the SpaceX API. Web application development for a commercial and scientific space travel company. Rockets and space missions will be available for booking through the application.
+**SpaceTravelHub** is an app that shows live data from the SpaceX API. Web application development for a commercial and scientific space travel company. Rockets and space missions are available for booking through the application.
 
 ## 🛠 Built With <a name="built-with"></a>
 
