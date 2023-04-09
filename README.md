@@ -163,7 +163,7 @@ You can deploy this project using:
 👤 **Felipe Oyarzo**
 
 - GitHub: [@jfoyarzo](https://github.com/jfoyarzo)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jorge-felipe-oyarzo-contreras-647118247/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jorge-felipe-oyarzo-contreras/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
